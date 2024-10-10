@@ -1,5 +1,6 @@
 #include <iostream>
 #include <signup.cpp>
+#include <login.cpp>
 using namespace std;
 
 int main(){
@@ -7,5 +8,6 @@ int main(){
     cout<<"second line of the code";
     signup()
 
+    login();
     return 0;
 }
